@@ -1,0 +1,12 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+}
+
+#app {
+    text-align: center;
+}
+
+#scheduler-output {
+    margin-top: 20px;
+}
