@@ -12,6 +12,7 @@ first of all the the file name CPU SCHEDULER JSON will give a json output, from 
 the frontend part inculde basic structure of the web were you can the OUTPUT all though the user intereaction part is not inculded mean if you run the file it gives the direct result for exmaple the ID, BURST TIME,ARIVAL TIME. beacuse i wanted to create a simple code where every body can undersatnd, if you wish to make a user intreaction freindly you just need to apply the simple logic of c++ and remove some changes and makes the user friendly
 i have also put some comment to read a perticular code of this file, basically it provide the basic knowlege of cpu scheduler where you can interpret the  output and make desicion  out of it. and the next part i will be explaining the code part from where i get those ideas and make this code workable also i will tell some some basic part from which integrate all those code and work thinfg happen. and also i put some refrence where i got some library and put in my code and it reduces my time and effort.
 
+    Although i have put all file sperated so that everybody can understand, if you want to use it, you can either launch all in replit or in glitch websites, this some online website where you acess it directly   
 
               THE INTERNAL WORKING OF THE PROJECT 
 
@@ -90,10 +91,7 @@ Visualization:
 
 The frontend visualizes the scheduling decisions, demonstrating which tasks were executed and their states, thus showcasing the scheduling algorithm's behavior.
 
-
-
-
-         IMPORTANT LEARNING TAKEAWAYS
+    IMPORTANT LEARNING TAKEAWAYS
 
 first of all 1.Understanding of Scheduling Algorithms: Deepened knowledge of various CPU scheduling algorithms and their practical applications.
 
